@@ -168,7 +168,7 @@ public class Game : MonoBehaviour
         teamKickOff = OtherTeam(team);
         goalTextColorAlpha = 1;
         soundCheer.Play();
-        textScore.text = teams[0].Score + "-" + teams[1].Score;
+        textScore.text = "Real Madrid " + teams[0].Score + "-" + teams[1].Score + " Manchister United";
         playerLastTouchedBall.ScoreGoal();
 
         WaitForKickOff(5.0f);

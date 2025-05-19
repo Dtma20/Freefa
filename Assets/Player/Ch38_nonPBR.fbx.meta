@@ -11,7 +11,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ch38_body
-    second: {fileID: 2100000, guid: 1861e36f8bafa504aa3e46b87ad9d47c, type: 2}
+    second: {fileID: 2100000, guid: 5bf2d7ec714d4bc439ddc98c6f00a5f2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -21,32 +21,32 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1001_Diffuse
-    second: {fileID: 2800000, guid: a55cfc2d32ddd224aa62f1e9a34262ce, type: 3}
+    second: {fileID: 2800000, guid: ee2dd3a973c0349418dde260c346c761, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1001_Glossiness
-    second: {fileID: 2800000, guid: 197fc12e722da78408cceb0838e2233e, type: 3}
+    second: {fileID: 2800000, guid: 534d318ff0abbe34dbcf450f1757e374, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1001_Normal
-    second: {fileID: 2800000, guid: 77efd2de138e4d54ca9a8d83773aee82, type: 3}
+    second: {fileID: 2800000, guid: 47af093397b4673468b912c7f36958a8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1001_Specular
-    second: {fileID: 2800000, guid: dd7a620a08fe580418c089a127e9a450, type: 3}
+    second: {fileID: 2800000, guid: 33749d6604dfe4041aa4f20b849f7912, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1002_Diffuse
-    second: {fileID: 2800000, guid: 5f5b7181c3f9295449e722932fa3adf5, type: 3}
+    second: {fileID: 2800000, guid: c6cc4f28eb9de4e48817d440c6cbc283, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch38_1002_Normal
-    second: {fileID: 2800000, guid: 92dafe82856e94d4087d3296e18acc63, type: 3}
+    second: {fileID: 2800000, guid: d775487dbb55b6c44a50f4df2a3efbf7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
